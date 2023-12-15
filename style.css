@@ -1,0 +1,13 @@
+.col {
+    padding: 5%;
+}
+
+main {
+    background: linear-gradient(
+      46deg,
+      rgb(19, 41, 114) 16%,
+      rgba(5, 5, 66, 1) 49%,
+      rgba(19, 41, 114, 1) 91%
+    );
+    background-blend-mode: normal;
+  }
